@@ -33,7 +33,7 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png) 
 
  ## OUTPUT
  ![Screenshot 2024-01-08 135611](https://github.com/hoshini28/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/155607150/87992da0-3734-4cad-a66f-f8bf42f1f53a)
